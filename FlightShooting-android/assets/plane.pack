@@ -1,0 +1,145 @@
+
+plane.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map0
+  rotate: false
+  xy: 1, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+map1
+  rotate: false
+  xy: 323, 1
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+e10
+  rotate: false
+  xy: 645, 406
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+bomb5
+  rotate: false
+  xy: 703, 420
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+bomb6
+  rotate: false
+  xy: 765, 420
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+bomb1
+  rotate: false
+  xy: 827, 422
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: false
+  xy: 888, 422
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: false
+  xy: 949, 422
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+bomb4
+  rotate: false
+  xy: 645, 345
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+bullet0
+  rotate: false
+  xy: 645, 293
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+bullet1
+  rotate: false
+  xy: 645, 241
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 645, 189
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+bullet3
+  rotate: false
+  xy: 645, 137
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+plan0
+  rotate: false
+  xy: 645, 99
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+plan1
+  rotate: false
+  xy: 645, 61
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+plan3
+  rotate: false
+  xy: 645, 61
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+plan2
+  rotate: false
+  xy: 645, 23
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+plan4
+  rotate: false
+  xy: 687, 307
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+plan5
+  rotate: false
+  xy: 687, 269
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 687, 238
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
